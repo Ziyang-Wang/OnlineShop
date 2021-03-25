@@ -7,6 +7,6 @@
 </head>
 
 <body>
-TBD
+OnlineShop: A Spring And Hibernate Based Shopping And Ordering system
 </body>
 </html>
